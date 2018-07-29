@@ -1,0 +1,15 @@
+.containers{
+  max-width: 1000px;
+  margin: auto;
+}
+.square{
+  width: 22%;
+  padding-bottom: 5%;
+  float: left;
+  margin: 1%;
+  border-radius: 15%;
+  transition: all 1.0s;
+}
+img{
+  width: 100%;
+}
